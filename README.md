@@ -1,2 +1,2 @@
 # Tech-Test
-This for a technical test
+This is for a technical test
